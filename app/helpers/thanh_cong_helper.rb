@@ -1,0 +1,2 @@
+module ThanhCongHelper
+end
